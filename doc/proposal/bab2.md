@@ -18,7 +18,7 @@ Menurut  Burange & Misalkar “Internet of Things (IOT) adalah struktur di mana 
 <br>
 <strong>2.3 Arduino Uno</strong>
 <p align="center">
-    <img src="../../img/proposal/arduino.jpg" width="400" height="200">
+    <img src="../../img/proposal/arduino.JPG" width="400" height="200">
     <br>
     Gambar 2.1 Arduino Mega 2560
 </p>
@@ -29,7 +29,7 @@ Arduino adalah nama keluarga papan mikrokontroller yang awalnya dibuat oleh peru
 
 <strong>2.4 Sensor Ultasonik</strong>
 <p align="center">
-    <img src="../../img/proposal/ultrasonic.jpg" width="200" height="200">
+    <img src="../../img/proposal/ultrasonic.JPG" width="200" height="200">
     <br>
     Gambar 2.2 Sensor Ultrasonic
 </p>
@@ -39,7 +39,7 @@ Sensor ultrasonik merupakan sensor yang bekerja dengan cara memancarkan gelomban
 <br>
 <strong>2.5 Bread Board</strong>
 <p align="center">
-    <img src="../../img/proposal/bread.jpg" width="300" height="230">
+    <img src="../../img/proposal/bread.JPG" width="300" height="230">
     <br>
     Gambar 2.3 Bread Board
 </p>
@@ -49,7 +49,7 @@ Breadboard adalah papan yang digunakan untuk menempatkan dan menyusun piranti / 
 <br>
 <strong>2.6 Liquid Crystal Display</strong>
 <p align="center">
-    <img src="../../img/proposal/lcd.jpg" width="350" height="200">
+    <img src="../../img/proposal/lcd.JPG" width="350" height="200">
     <br>
     Gambar 2.6 Liquid Crystal Display
 </p>
